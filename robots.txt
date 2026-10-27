@@ -1,0 +1,3 @@
+# Demo comercial: no indexar datos ficticios.
+User-agent: *
+Disallow: /
